@@ -3,13 +3,13 @@
 
 Tutorial para desenvolvimento de conta para CDZ AWAKENING. Feito por - HollowKnight
 
-## 📃 Primeiros passos
+## 📃 Baixe o APP GT Arcade
 
-- Gato Full
-- PVP diário
-- Liberar o PVE
-- Cosmo lv 10 
-- Reparo de Armadura
+- Faça as missões diárias.
+- Faça a roda da fortuna 3x por dia.
+- Acesse o Getamon.
+- Faça "Partida de monstros" 10x por dia e "Monster&Monster" 3x por dia.
+- Na lojaGT compre SEMPRE o frag de livro e com pontos extras te recomendo a comprar caixa de flores e o resto você que sabe.
 
 ## Liberando o PVE
 
